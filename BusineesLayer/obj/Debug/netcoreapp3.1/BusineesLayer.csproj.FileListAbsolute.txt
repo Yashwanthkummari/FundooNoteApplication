@@ -1,0 +1,15 @@
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\BusineesLayer.deps.json
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\BusineesLayer.dll
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\BusineesLayer.pdb
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\BusineesLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.csproj.AssemblyReference.cache
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.AssemblyInfoInputs.cache
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.AssemblyInfo.cs
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.csproj.CoreCompileInputs.cache
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.csproj.CopyComplete
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.dll
+E:\BusineesLayer\obj\Debug\netcoreapp3.1\BusineesLayer.pdb
